@@ -14,10 +14,8 @@ Full stack web developer and former body-positive personal trainer.
 
 <li><a href="https://github.com/thecoachanna/takehaction">Disabili-Buddy</a> - A project I had the opportunity to work on as part of Ada Developers Academy #TakeHaction Hackathon. Disabili-Buddy is an assistive tool designed to help disabled folx safely communicate with law enforcement. It is a project that I am really proud of because of its spotlight on mental health, inclusive design and support for the neurodivergent community.</li>
 
-### I’m currently learning ...
-
-
-
+### I’m currently learning:
+I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Program. As someone who enjoys learning and is excited by the endless potential that exists in Tech, I'm looking forward to learning Java and diving deeper into Python.
 ### Fun fact:
 I've lived in 12 different states in my adult life.
 - Florida
@@ -32,7 +30,6 @@ I've lived in 12 different states in my adult life.
 - Idaho
 - Utah
 - Hawaii
-My favorites being Michigan and Hawaii.
 
 ## GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thecoachanna)](https://github.com/thecoachanna)
