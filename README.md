@@ -10,7 +10,7 @@ Full stack web developer and former body-positive personal trainer.
 <li><a href="https://starting-strength-frontend.herokuapp.com/workouts/home">Starting Strength</a> - A 6 week workout program designed for true beginners to strength training including exercise videos, cues and a training tips page.</li>
 <li><a href="https://thecoachanna.github.io/Matching-Game/">Exercise Matching Game</a> - A fun memory card matching game with a body diverse fitness theme.</li>
 
-<h3><em>In progress...</em></h3>
+<p><em>In progress...</em></p>
 
 <li><a href="https://github.com/thecoachanna/takehaction">Disabili-Buddy</a> - A project I had the opportunity to work on as part of Ada Developers Academy #TakeHaction Hackathon. Disabili-Buddy is an assistive tool designed to help disabled folx safely communicate with law enforcement. It is a project that I am really proud of because of its spotlight on mental health, inclusive design and support for the neurodivergent community.</li>
 
@@ -21,7 +21,7 @@ Full stack web developer and former body-positive personal trainer.
 
 
 ### Pronouns: She/Her
-<h3>Fun fact:</h3>
+### Fun fact:
 I've lived in 12 different states in my adult life. My favorites being Michigan and Hawaii.
 
 ## GitHub Stats
