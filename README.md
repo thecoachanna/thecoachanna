@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://www.canva.com/design/DAFPg3hLDOQ/Kxm0hmZkKXUCGFwdRZ65ZQ/view?utm_content=DAFPg3hLDOQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" alt="my banner">
-
-</p>
+![Banner](banner.png)
 <h2 align="center">
-I'm a Full-Stack Web Developer 💻, Photographer 📸, and Designer 🎨!
+I'm a Full-Stack Web Developer and Personal Trainer !
 </h2> 
 
 
