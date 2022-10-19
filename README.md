@@ -1,9 +1,9 @@
 ![Banner](banner.png)
 
-<div align="center">
+
 ![](https://img.shields.io/badge/LinkedIn-4c5270?style=for-the-badge&logo=linkedin&logoColor=white)
 ![](https://img.shields.io/badge/Twitter-4c5270?style=for-the-badge&logo=twitter&logoColor=white)
-</div>
+
 
 <h2 align="center">
 Full stack web developer and former body-positive personal trainer.
@@ -26,6 +26,13 @@ I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Pr
 ![](https://img.shields.io/badge/React-informational?style=flat&logo=react&color=ba7ba1)
 ![](https://img.shields.io/badge/JavaScript-informational?style=flat&logo=JavaScript&color=ba7ba1)
 ![](https://img.shields.io/badge/HTML5-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/Node.js-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/Express-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/MongoDB-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/Mongoose-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=HTML5&color=ba7ba1)
+![](https://img.shields.io/badge/Django-informational?style=flat&logo=HTML5&color=ba7ba1)
 
  
 <br>
@@ -33,6 +40,8 @@ I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Pr
 ![](https://img.shields.io/badge/Bootstrap-informational?style=flat&logo=Bootstrap&color=ba7ba1)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&logo=CSS3&color=ba7ba1)
 ![](https://img.shields.io/badge/styled--components-informational?style=flat&logo=styled-components&color=ba7ba1)
+![](https://img.shields.io/badge/Tailwind-informational?style=flat&logo=styled-components&color=ba7ba1)
+![](https://img.shields.io/badge/Canva-informational?style=flat&logo=styled-components&color=ba7ba1)
 
 <br>
 
