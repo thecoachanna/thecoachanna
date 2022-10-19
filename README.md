@@ -12,7 +12,7 @@ Full stack web developer and former body-positive personal trainer.
 
 <br>
 
-<h3>In progress...</h3>
+<h3><em>In progress...</em></h3>
 
 <li>Disabili-Buddy</li>
 
@@ -23,9 +23,10 @@ Full stack web developer and former body-positive personal trainer.
 
 
 ### Pronouns: She/Her
-### ⚡ Fun fact: ...
+## Fun fact:
+I've lived in 12 different states in my adult life. My favorites being Michigan and Hawaii.
 
-## 📈 GitHub Stats
+## GitHub Stats
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thecoachanna)](https://github.com/thecoachanna)
 
 
