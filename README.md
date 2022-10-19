@@ -44,13 +44,13 @@ I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Pr
 ![](https://img.shields.io/badge/DJANGO-informational?style=flat&?logoColor=white&logo=Django&color=ba7ba1)
 ![](https://img.shields.io/badge/BOOTSTRAP-informational?style=flat&?logoColor=white&logo=Bootstrap&color=ba7ba1)
 ![](https://img.shields.io/badge/CSS3-informational?style=flat&?logoColor=white&logo=CSS3&color=ba7ba1)
-![](https://img.shields.io/badge/STYLED--components-informational?style=flat&?logoColor=white&logo=styled-components&color=ba7ba1)
-![](https://img.shields.io/badge/Tailwind-informational?style=flat&?logoColor=white&logo=Tailwind&color=ba7ba1)
-![](https://img.shields.io/badge/Canva-informational?style=flat&?logoColor=white&logo=Canva&color=ba7ba1)
+![](https://img.shields.io/badge/STYLED--COMPONENTS-informational?style=flat&?logoColor=white&logo=styled-components&color=ba7ba1)
+![](https://img.shields.io/badge/TAILWIND-informational?style=flat&?logoColor=white&logo=Tailwind&color=ba7ba1)
+![](https://img.shields.io/badge/CANVA-informational?style=flat&?logoColor=white&logo=Canva&color=ba7ba1)
 ![](https://img.shields.io/badge/NPM-informational?style=flat&?logoColor=white&logo=NPM&color=ba7ba1)
-![](https://img.shields.io/badge/Heroku-informational?style=flat&?logoColor=white&logo=Heroku&color=ba7ba1)
-![](https://img.shields.io/badge/Git-informational?style=flat&?logoColor=white&logo=Git&color=ba7ba1)
-![](https://img.shields.io/badge/GitHub-informational?style=flat&?logoColor=white&logo=GitHub&color=ba7ba1)
+![](https://img.shields.io/badge/HEROKU-informational?style=flat&?logoColor=white&logo=Heroku&color=ba7ba1)
+![](https://img.shields.io/badge/GIT-informational?style=flat&?logoColor=white&logo=Git&color=ba7ba1)
+![](https://img.shields.io/badge/GITHUB-informational?style=flat&?logoColor=white&logo=GitHub&color=ba7ba1)
 
 ### Fun fact:
 
