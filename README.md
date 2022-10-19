@@ -6,11 +6,9 @@ Full stack web developer and former body-positive personal trainer.
 
 ## Projects:
 
-<li><a href="https://workoutbuddy2.herokuapp.com/">WorkoutBuddy</a> - Workout Buddy is a web application that allows users to find fellow exercise enthusiasts in their area to meet up and workout with. It is a concept that is dear to me because of the difficulty I’ve experienced making friends in a new city and preferring to be active over just food + drinks.</li>
-<li><a href="https://starting-strength-frontend.herokuapp.com/workouts/home">Starting Strength</a> - This app is a 6 week workout program designed for true beginners to strength training including exercise videos, cues and a training tips page.</li>
-<li><a href="https://thecoachanna.github.io/Matching-Game/">Exercise Matching Game</a> - </li>
-
-<br>
+<li><a href="https://workoutbuddy2.herokuapp.com/">WorkoutBuddy</a> - A web application that allows users to find fellow exercise enthusiasts in their area to meet up and workout with. It is a concept that is dear to me because of the difficulty I’ve experienced making friends in a new city and preferring to be active over just food + drinks.</li>
+<li><a href="https://starting-strength-frontend.herokuapp.com/workouts/home">Starting Strength</a> - A 6 week workout program designed for true beginners to strength training including exercise videos, cues and a training tips page.</li>
+<li><a href="https://thecoachanna.github.io/Matching-Game/">Exercise Matching Game</a> - A fun memory card matching game with a body diverse fitness theme.</li>
 
 <h3><em>In progress...</em></h3>
 
