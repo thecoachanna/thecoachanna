@@ -1,16 +1,18 @@
 ![Banner](banner.png)
 
 <h2 align="center">
-I'm a full stack web developer and former body-positive personal trainer!
+Full stack web developer and former body-positive personal trainer.
 </h2> 
 
-### Projects:
+## Projects:
 
-<li><a href="https://workoutbuddy2.herokuapp.com/">WorkoutBuddy - A workout</li>
-<li><a href="https://starting-strength-frontend.herokuapp.com/workouts/home">Starting Strength</li>
-<li><a href="https://thecoachanna.github.io/Matching-Game/">Exercise Matching Game</li>
+<li><a href="https://workoutbuddy2.herokuapp.com/"></a>WorkoutBuddy - A workout</li>
+<li><a href="https://starting-strength-frontend.herokuapp.com/workouts/home"></a>Starting Strength</li>
+<li><a href="https://thecoachanna.github.io/Matching-Game/"></a>Exercise Matching Game</li>
 
-In progress...
+<br>
+
+<h3>In progress...</h3>
 
 <li>Disabili-Buddy</li>
 
