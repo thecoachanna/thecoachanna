@@ -18,16 +18,17 @@ Full stack web developer and former body-positive personal trainer.
 I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Program. As someone who enjoys learning and is excited by the endless potential that exists in Tech, I'm looking forward to learning Java and diving deeper into Python.
 
 ### Languages + Tools:
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=4c5270)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=4c5270)
+![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=4c5270)
 
  
 <br>
 
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=4c5270)
+![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=4c5270)
+![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=4c5270)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 <br>
 
