@@ -4,6 +4,8 @@
 Full stack web developer and former body-positive personal trainer.
 </h2> 
 
+![](https://img.shields.io/badge/LinkedIn-4c5270?style=for-the-badge&logo=linkedin&logoColor=white)
+![](https://img.shields.io/badge/Twitter-4c5270?style=for-the-badge&logo=twitter&logoColor=white)
 ### Projects:
 
 <li><a href="https://workoutbuddy2.herokuapp.com/">WorkoutBuddy</a> - A web application that allows users to find fellow exercise enthusiasts in their area to meet up and workout with. It is a concept that is dear to me because of the difficulty I’ve experienced making friends in a new city and preferring to be active over just food + drinks.</li>
@@ -32,10 +34,11 @@ I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Pr
 
 <br>
 
-![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
-![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
+![](https://img.shields.io/badge/NPM-informational?style=flat&logo=NPM&color=Cba7ba1)
+![](https://img.shields.io/badge/Heroku-informational?style=flat&logo=Heroku&color=ba7ba1)
+![](https://img.shields.io/badge/GIT-ba7ba1?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&color=ba7ba1)
+![](https://img.shields.io/badge/Trello-ba7ba1?style=for-the-badge&logo=trello&logoColor=white)
 
 ### Fun fact:
 I've lived in 12 different states in my adult life.
