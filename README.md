@@ -13,7 +13,7 @@
 </p>
 
 <h2 align="center">
-Full stack web developer and former body-positive personal trainer.
+Full stack software engineer and former body-positive personal trainer.
 </h2>
 
 ### Projects:
