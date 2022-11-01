@@ -1,3 +1,7 @@
+<h2 align="center">
+Full stack software engineer and former body-positive personal trainer.
+</h2>
+
 ![Banner](banner.png)
 
 <p align="center">
@@ -11,10 +15,6 @@
         <img src="https://img.shields.io/badge/Portfolio-4c5270?style=for-the-badge&logo=react&logoColor=white">
     </a>
 </p>
-
-<h2 align="center">
-Full stack software engineer and former body-positive personal trainer.
-</h2>
 
 ### Projects:
 
