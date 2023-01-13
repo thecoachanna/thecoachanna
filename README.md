@@ -16,6 +16,16 @@ Full stack software engineer and former body-positive personal trainer.
     </a>
 </p>
 
+### About Me:
+
+Hi, I'm Anna! I'm a Software Engineering Intern at a stealth mode start-up and recent bootcamp graduate from General Assembly where I built a strong foundation in web development, including skills in modern front-end and back-end technologies.
+
+I am currently gaining hands-on experience in my internship working with serverless architecture and cloud computing within AWS. Specifically building functions in Lambda and implementing AWS Simple Email Service within our React app.
+
+As a lifelong learner, I'm excited by the ever-evolving field of software engineering and facing new challenges.
+
+In 2023, I'm continuing to work hard in order to land my first full-time role as a Software Engineer and mentor other bootcamp graduates who are hoping to do the same.
+
 ### Projects:
 
 <li><a href="https://workoutbuddy2.herokuapp.com/">WorkoutBuddy</a> - A web application that allows users to find fellow exercise enthusiasts in their area to meet up and workout with. It is a concept that is dear to me because of the difficulty I’ve experienced making friends in a new city and preferring to be active over just food + drinks.</li>
@@ -25,10 +35,6 @@ Full stack software engineer and former body-positive personal trainer.
 <p><em>In progress...</em></p>
 
 <li><a href="https://github.com/thecoachanna/takehaction">Disabili-Buddy</a> - A project I had the opportunity to work on as part of Ada Developers Academy #TakeHaction Hackathon. Disabili-Buddy is an assistive tool designed to help disabled folx safely communicate with law enforcement. It is a project that I am really proud of because of its spotlight on mental health, inclusive design and support for the neurodivergent community.</li>
-
-### I’m currently learning:
-
-I was recently gifted a scholarship to Udacity's Cognizant Skills Accelerator Program. As someone who enjoys learning and is excited by the endless potential that exists in Tech, I'm looking forward to learning Java and diving deeper into Python.
 
 ### Languages + Tools:
 
