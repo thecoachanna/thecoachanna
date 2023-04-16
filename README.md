@@ -65,11 +65,3 @@ In 2023, I'm looking for my first full time role in tech where I can combine my 
 <a href="http://www.github.com/thecoachanna"><img src="https://github-readme-stats.vercel.app/api?username=thecoachanna&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="thecoachanna's GitHub stats" /></a>
 
 <a href="http://www.github.com/thecoachanna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thecoachanna&stroke=444e59&background=ffffff&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/thecoachanna/Starting-Strength2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Starting-Strength2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Workout-Buddy2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Workout-Buddy2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/thecoachanna/Matching-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Matching-Game&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Dev-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Dev-Portfolio&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
