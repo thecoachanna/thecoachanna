@@ -1,5 +1,5 @@
 <h2 align="center">
-Full stack software engineer and former body-positive personal trainer.
+Full stack software engineer + weight-inclusive fitness coach.
 </h2>
 
 ![Banner](banner.png)
