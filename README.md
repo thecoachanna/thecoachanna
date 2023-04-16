@@ -12,20 +12,29 @@
         <img src="https://img.shields.io/badge/Portfolio-6D8084?style=for-the-badge&logo=react&logoColor=white">
     </a>
 </p>
+<div align="center">
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna Nettles
-====================================================================================================================================
-
-Full stack software engineer + weight-inclusive fitness coach.
+Full stack software engineer + weight-inclusive fitness coach.</div>
 --------------------------------------------------------------
 
-I'm a Software Engineering Intern at a stealth mode start-up and Teaching Assistant for my alumni bootcamp, General Assembly where I built a strong foundation in web development, including skills in modern front-end and back-end technologies. My career change from fitness came from a move from Detroit to Atlanta where I was exposed to so many peers working within the tech industry. It sparked a interest in me that I have been relentlessly pursuing for the past year. I believe strongly in representation in the tech industry - specifically among women and underrepresented minorities - and how seeing people who have similar backgrounds to you can help to build self-efficacy and the belief that “if they can do it, I can too.” If it wasn’t for that representation I would have never considered this career change for myself. I am currently gaining hands-on experience in my internship working with serverless architecture and cloud computing within AWS. Specifically building functions in Lambda and implementing AWS Simple Email Service within our React app. In 2023, I'm looking for my first full time role in tech where I can combine my newly acquired technical skills - in React.js/Node.js/AWS - with my love of connecting with and supporting humans.
+I'm a Software Engineering Intern at a stealth mode start-up and Teaching Assistant for my alumni bootcamp, General Assembly where I built a strong foundation in web development, including skills in modern front-end and back-end technologies. 
+<br></br>
+My career change from fitness came from a move from Detroit to Atlanta where I was exposed to so many peers working within the tech industry. It sparked a interest in me that I have been relentlessly pursuing for the past year.
+<br></br>
+I believe strongly in representation in the tech industry - specifically among women and underrepresented minorities - and how seeing people who have similar backgrounds to you can help to build self-efficacy and the belief that “if they can do it, I can too.” If it wasn’t for that representation I would have never considered this career change for myself.
+<br></br>
+I am currently gaining hands-on experience in my internship working with serverless architecture and cloud computing within AWS. Specifically building functions in Lambda and implementing AWS Simple Email Service within our React app.
+<br></br>
+In 2023, I'm looking for my first full time role in tech where I can combine my newly acquired technical skills - in React.js/Node.js/AWS - with my love of connecting with and supporting humans.
 
-*   🌍  I'm based in Atlanta, GA
-*   🖥️  See my portfolio at [My Portfolio](http://anna-nettles-dev.herokuapp.com/)
-*   ✉️  You can contact me at [nettles.anna@gmail.com](mailto:nettles.anna@gmail.com)
-*   🧠  I'm learning React + TypeScript + AWS
-*   ⚡  I love living in Atlanta, walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!### Skills 
+* 🌍  I'm based in Atlanta, GA
+* 🖥️  See my portfolio at [My Portfolio](http://anna-nettles-dev.herokuapp.com/)
+* ✉️  You can contact me at [nettles.anna@gmail.com](mailto:nettles.anna@gmail.com)
+* 🧠  I'm learning React + TypeScript + AWS
+* ⚡  I love living in Atlanta, walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!
+
+### Skills
+
 <p align="left">
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -46,23 +55,21 @@ I'm a Software Engineering Intern at a stealth mode start-up and Teaching Assist
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
 </p>
-                    
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/thecoachanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://annanettles.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
-                          
-                      <a href="http://www.instagram.com/_annanettles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.linkedin.com/in/annanettles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.polywork.com/thecoachanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/_annanettles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/thecoachanna"><img src="https://github-readme-stats.vercel.app/api?username=thecoachanna&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="thecoachanna's GitHub stats" /></a><a
-                      href="http://www.github.com/thecoachanna"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=thecoachanna&stroke=444e59&background=ffffff&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/thecoachanna/Starting-Strength2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Starting-Strength2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Workout-Buddy2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Workout-Buddy2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/thecoachanna/Matching-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Matching-Game&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Dev-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Dev-Portfolio&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/thecoachanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://annanettles.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/_annanettles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/annanettles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.polywork.com/thecoachanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/_annanettles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/thecoachanna"><img src="https://github-readme-stats.vercel.app/api?username=thecoachanna&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="thecoachanna's GitHub stats" /></a>
+
+<a href="http://www.github.com/thecoachanna"><img src="https://github-readme-streak-stats.herokuapp.com/?user=thecoachanna&stroke=444e59&background=ffffff&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/thecoachanna/Starting-Strength2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Starting-Strength2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Workout-Buddy2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Workout-Buddy2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/thecoachanna/Matching-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Matching-Game&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Dev-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Dev-Portfolio&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
