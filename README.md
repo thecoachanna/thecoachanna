@@ -1,6 +1,3 @@
-<h2 align="center">
-Full stack software engineer + weight-inclusive fitness coach.
-</h2>
 
 ![Banner](banner.png)
 
@@ -16,65 +13,56 @@ Full stack software engineer + weight-inclusive fitness coach.
     </a>
 </p>
 
-### About Me:
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Anna Nettles
+====================================================================================================================================
 
-Hi, I'm Anna! I'm a Software Engineering Intern at a stealth mode start-up and recent bootcamp graduate from General Assembly where I built a strong foundation in web development, including skills in modern front-end and back-end technologies.
+Full stack software engineer + weight-inclusive fitness coach.
+--------------------------------------------------------------
 
-I am currently gaining hands-on experience in my internship working with serverless architecture and cloud computing within AWS. Specifically building functions in Lambda and implementing AWS Simple Email Service within our React app.
+I'm a Software Engineering Intern at a stealth mode start-up and Teaching Assistant for my alumni bootcamp, General Assembly where I built a strong foundation in web development, including skills in modern front-end and back-end technologies. My career change from fitness came from a move from Detroit to Atlanta where I was exposed to so many peers working within the tech industry. It sparked a interest in me that I have been relentlessly pursuing for the past year. I believe strongly in representation in the tech industry - specifically among women and underrepresented minorities - and how seeing people who have similar backgrounds to you can help to build self-efficacy and the belief that “if they can do it, I can too.” If it wasn’t for that representation I would have never considered this career change for myself. I am currently gaining hands-on experience in my internship working with serverless architecture and cloud computing within AWS. Specifically building functions in Lambda and implementing AWS Simple Email Service within our React app. In 2023, I'm looking for my first full time role in tech where I can combine my newly acquired technical skills - in React.js/Node.js/AWS - with my love of connecting with and supporting humans.
 
-As a lifelong learner, I'm excited by the ever-evolving field of software engineering and facing new challenges.
-
-In 2023, I'm continuing to work hard in order to land my first full-time role as a Software Engineer and mentor other bootcamp graduates who are hoping to do the same.
-
-### Projects:
-
-<li><a href="https://workoutbuddy2.herokuapp.com/">WorkoutBuddy</a> - A web application that allows users to find fellow exercise enthusiasts in their area to meet up and workout with. It is a concept that is dear to me because of the difficulty I’ve experienced making friends in a new city and preferring to be active over just food + drinks.</li>
-<li><a href="https://starting-strength-frontend.herokuapp.com/workouts/home">Starting Strength</a> - A 6 week workout program designed for true beginners to strength training including exercise videos, cues and a training tips page.</li>
-<li><a href="https://thecoachanna.github.io/Matching-Game/">Exercise Matching Game</a> - A fun memory card matching game with a body diverse fitness theme.</li>
-<br>
-<p><em>In progress...</em></p>
-
-<li><a href="https://github.com/thecoachanna/takehaction">Disabili-Buddy</a> - A project I had the opportunity to work on as part of Ada Developers Academy #TakeHaction Hackathon. Disabili-Buddy is an assistive tool designed to help disabled folx safely communicate with law enforcement. It is a project that I am really proud of because of its spotlight on mental health, inclusive design and support for the neurodivergent community.</li>
-
-### Languages + Tools:
-
-![](https://img.shields.io/badge/REACT-informational?style=flat&?logoColor=white&logo=react&color=ba7ba1)
-![](https://img.shields.io/badge/JAVASCRIPT-informational?style=flat&?logoColor=white&JavaScript&color=ba7ba1)
-![](https://img.shields.io/badge/HTML5-informational?style=flat&?logoColor=white&logo=HTML5&color=ba7ba1)
-![](https://img.shields.io/badge/NODE.JS-informational?style=flat&?logoColor=white&logo=Node.js&color=ba7ba1)
-![](https://img.shields.io/badge/EXPRESS-informational?style=flat&logo=Express&color=ba7ba1)
-![](https://img.shields.io/badge/MONGODB-informational?style=flat&?logoColor=white&logo=MongoDB&color=ba7ba1)
-![](https://img.shields.io/badge/MONGOOSE-informational?style=flat&?logoColor=white&logo=Mongoose&color=ba7ba1)
-![](https://img.shields.io/badge/PYTHON-informational?style=flat&?logoColor=white&logo=Python&color=ba7ba1)
-![](https://img.shields.io/badge/SQL-informational?style=flat&?logoColor=white&logo=SQL&color=ba7ba1)
-![](https://img.shields.io/badge/DJANGO-informational?style=flat&?logoColor=white&logo=Django&color=ba7ba1)
-![](https://img.shields.io/badge/BOOTSTRAP-informational?style=flat&?logoColor=white&logo=Bootstrap&color=ba7ba1)
-![](https://img.shields.io/badge/CSS3-informational?style=flat&?logoColor=white&logo=CSS3&color=ba7ba1)
-![](https://img.shields.io/badge/STYLED--COMPONENTS-informational?style=flat&?logoColor=white&logo=styled-components&color=ba7ba1)
-![](https://img.shields.io/badge/TAILWIND-informational?style=flat&?logoColor=white&logo=Tailwind&color=ba7ba1)
-![](https://img.shields.io/badge/CANVA-informational?style=flat&?logoColor=white&logo=Canva&color=ba7ba1)
-![](https://img.shields.io/badge/NPM-informational?style=flat&?logoColor=white&logo=NPM&color=ba7ba1)
-![](https://img.shields.io/badge/HEROKU-informational?style=flat&?logoColor=white&logo=Heroku&color=ba7ba1)
-![](https://img.shields.io/badge/GIT-informational?style=flat&?logoColor=white&logo=Git&color=ba7ba1)
-![](https://img.shields.io/badge/GITHUB-informational?style=flat&?logoColor=white&logo=GitHub&color=ba7ba1)
-
-### Fun fact:
-
-I've lived in 12 different states in my adult life.
-
-- Florida
-- Mississippi
-- Georgia
-- North Carolina
-- Ohio
-- Missouri
-- Maryland
-- Michigan
-- Texas
-- Idaho
-- Utah
-- Hawaii
-
-## GitHub Stats
-
-[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=thecoachanna)](https://github.com/thecoachanna)
+*   🌍  I'm based in Atlanta, GA
+*   🖥️  See my portfolio at [My Portfolio](http://anna-nettles-dev.herokuapp.com/)
+*   ✉️  You can contact me at [nettles.anna@gmail.com](mailto:nettles.anna@gmail.com)
+*   🧠  I'm learning React + TypeScript + AWS
+*   ⚡  I love living in Atlanta, walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!### Skills 
+<p align="left">
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+                    
+                  ### Socials
+                  
+                  
+                <p align="left">
+                          
+                      <a href="https://www.github.com/thecoachanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://annanettles.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a>
+                          
+                      <a href="http://www.instagram.com/_annanettles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.linkedin.com/in/annanettles/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.polywork.com/thecoachanna" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/polywork.svg" width="32" height="32" /></a>
+                          
+                      <a href="https://www.twitter.com/_annanettles" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
+                      href="http://www.github.com/thecoachanna"><img src="https://github-readme-stats.vercel.app/api?username=thecoachanna&show_icons=true&hide=&count_private=true&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="thecoachanna's GitHub stats" /></a><a
+                      href="http://www.github.com/thecoachanna"><img
+                  src="https://github-readme-streak-stats.herokuapp.com/?user=thecoachanna&stroke=444e59&background=ffffff&ring=64748b&fire=64748b&currStreakNum=444e59&currStreakLabel=64748b&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a><b>Top Repositories</b><div width="100%" align="center"><a href="https://github.com/thecoachanna/Starting-Strength2.0" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Starting-Strength2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Workout-Buddy2.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Workout-Buddy2.0&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><br /><div width="100%" align="center"><a href="https://github.com/thecoachanna/Matching-Game" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Matching-Game&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/thecoachanna/Dev-Portfolio" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=thecoachanna&repo=Dev-Portfolio&title_color=64748b&text_color=444e59&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
