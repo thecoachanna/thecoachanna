@@ -27,11 +27,11 @@ I am currently gaining hands-on experience in my internship working with serverl
 <br></br>
 In 2023, I'm looking for my first full time role in tech where I can combine my newly acquired technical skills - in React.js/Node.js/AWS - with my love of connecting with and supporting humans.
 
-* 🌍  I'm based in Atlanta, GA
-* 🖥️  See my portfolio at [My Portfolio](http://anna-nettles-dev.herokuapp.com/)
+* 🍑 I live in Atlanta, GA
+* 🖥️  Check out my Portfolio at - [Portfolio](http://anna-nettles-dev.herokuapp.com/)
 * ✉️  You can contact me at [nettles.anna@gmail.com](mailto:nettles.anna@gmail.com)
-* 🧠  I'm learning React + TypeScript + AWS
-* ⚡  I love living in Atlanta, walking the BeltLine, lifting weights, watching reality dating shows with my fiance’, and making new friends in tech!
+* 🧠  I'm currently learning React + TypeScript + AWS
+* ⚡  In my freetime I enjoy walking the BeltLine, lifting weights, reading (currently fiction), watching reality dating shows with my fiance’, and making new friends in tech!
 
 ### Skills
 
