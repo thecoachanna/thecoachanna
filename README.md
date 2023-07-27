@@ -31,7 +31,7 @@ In 2023, I'm looking for my first full time role in tech where I can combine my 
 * 🖥️  Check out my Portfolio at - [Portfolio](http://anna-nettles-dev.herokuapp.com/)
 * ✉️  You can contact me at [nettles.anna@gmail.com](mailto:nettles.anna@gmail.com)
 * 🧠  I'm currently learning React + TypeScript + AWS
-* ⚡  In my freetime I enjoy walking the BeltLine, lifting weights, reading (currently fiction), watching reality dating shows with my fiance’, and making new friends in tech!
+* ⚡  In my freetime I enjoy walking the BeltLine, lifting weights, reading (currently fiction), watching reality dating shows with my husband, and making new friends in tech!
 
 ### Skills
 
